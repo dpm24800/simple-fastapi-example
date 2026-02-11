@@ -1,2 +1,3 @@
-# simple-fastapi-example
-Very simple FastAPI code example
+# Simple FastAPI Example
+
+This is a really basic example of a FastAPI application.
